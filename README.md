@@ -9,7 +9,16 @@
 	<h2>Into the wild</h2>
 	<p>Into the Wild is a book about a man who hitchhiked into the wild and was forced to survive off of the available resources. </p>
 	</br>
-	<p>Our team made a simple html 
+	<p>Our team made a rudimentary child friendly website that easily allows the user to access more information on certain wildlife topics.</p>
+	<li>Topics Included
+		<ul>Amazon River
+		<ul>Parrots
+		<ul>Rolling Rapids
+		<ul>Turtles
+		<ul>Polar Bears
+		<ul>Mountains
+		<ul>Lau Thailand Waterfall	
+		</li>
 	
 
 </div>
