@@ -26,7 +26,8 @@
 	However, we still decided to take an approach that none of us were familiar with.
 	Due to a lack of knowledge on front end coding we know it's not the most competitive work but we tried our best :)
 	
-
+	https://repl.it/join/gqvysavn-jmateo27
+	To access the website, download all the files and run it on repl.
 </div>
 </div>
 </body>
