@@ -17,13 +17,14 @@
 		<ul>Turtles</ul>
 		<ul>Polar Bears</ul>
 		<ul>Mountains</ul>
-		<ul>Lau Thailand Waterfall</ul>
-        	<ul>Camel</ul>
+		<ul>Lau Thailand Waterfall	</ul>
+        <ul>Camel	</ul>
 		</li>
 
-    PS Our original coding project didn't work out. 
-    However, we still decided to take an approach that none of us were familiar with.
-    Due to a lack of knowledge on front end coding we know it's not the most competitive work but we tried our best :)
+	To access the website, open "index.html" with a web browser. 
+    **PS** Our original coding project didn't work out. 
+	However, we still decided to take an approach that none of us were familiar with.
+	Due to a lack of knowledge on front end coding we know it's not the most competitive work but we tried our best :)
 	
 
 </div>
